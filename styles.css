@@ -58,3 +58,8 @@ ul {
 li {
     display: inline-block;
 }
+
+.social-icons {
+    height: 32px;
+    width: 32px;
+}
