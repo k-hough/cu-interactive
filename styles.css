@@ -52,6 +52,7 @@ footer span {
 }
 
 ul {
+    margin: 0;
     padding: 0;
 }
 
@@ -59,7 +60,10 @@ li {
     display: inline-block;
 }
 
-.social-icons {
+.social-background {
+    background: #fff;
+    display: inline-block;
     height: 32px;
+    margin: 0 10px 40px 0;
     width: 32px;
 }
